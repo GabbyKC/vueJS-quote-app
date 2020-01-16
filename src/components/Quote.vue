@@ -26,5 +26,4 @@
   .quote:hover {
     background-color: #ffdbe9;
   }
-
 </style>
