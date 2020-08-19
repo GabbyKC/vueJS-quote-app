@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "acorn": "^6.4.1",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.5",
+    "serialize-javascript": "^4.0.0",
     "vue": "^2.5.11"
   },
   "browserslist": [
@@ -25,13 +26,13 @@
     "babel-preset-env": "^1.6.0",
     "babel-preset-stage-3": "^6.24.1",
     "cross-env": "^5.0.5",
-    "css-loader": "^3.4.2",
+    "css-loader": "^3.6.0",
     "file-loader": "^1.1.4",
     "prettier": "1.12.1",
-    "vue-loader": "^14.2.2",
+    "vue-loader": "^14.2.4",
     "vue-template-compiler": "^2.4.4",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
-    "webpack-dev-server": ">=3.1.11"
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
   }
 }
