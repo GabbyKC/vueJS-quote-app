@@ -12,6 +12,7 @@
   "dependencies": {
     "acorn": "^6.4.1",
     "minimist": "^1.2.5",
+    "node-forge": "^0.10.0",
     "serialize-javascript": "^4.0.0",
     "vue": "^2.5.11"
   },
